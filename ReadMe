@@ -1,0 +1,11 @@
+==>Dependencies in this project
+Nodemon ( for development) - npm i nodemon --save-dev
+Morgan (for develoopment) - npm i morgan
+dotenv - npm i dotenv
+mongoose - npm i mongoose
+validator - npm i validator
+bcryptjs - npm i bcryptjs
+jwt - npm i jsonwebtoken
+
+==>To run production in json scripts install this to work the json script in windows
+npm install -g win-node-env
